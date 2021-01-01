@@ -1,7 +1,7 @@
 # Recurring Users
 
 The recurring users playbook is for tracking recurring users of your product or
-service. Keeping a track record of retention is a string indicator for
+service. Keeping a track record of retention is a strong indicator for
 successful startups. If you can prove that users come to you and stay, you are
 destined to become a successful entrepreneur.
 
