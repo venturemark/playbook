@@ -1,7 +1,7 @@
 # Feature Development
 
-The feature development playbook is for tracking progress in feature
-development. A Software Engineer or Product Manager might want to track the
+Select feature development to understand and share how fast you build. A 
+Software Engineer or Product Manager might want to track the
 velocity of implemented features in order to capture additional value. This
 information can be used as track record as well as community update.
 
